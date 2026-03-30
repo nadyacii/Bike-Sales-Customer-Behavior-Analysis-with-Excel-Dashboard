@@ -1,6 +1,8 @@
 # Bike Sales Customer Behavior Analysis with Excel Dashboard
 This project analyzes bike sales data using Microsoft Excel to uncover customer purchasing behavior. The data was cleaned, transformed, and analyzed using pivot tables, then visualized through an interactive dashboard. This project highlights how Excel can be used to turn raw data into actionable business insights for better decision-making.
 
+ ![Dashboard_Bike](dashboard_image.png)
+
 ## 1. Backround
 Dalam dunia bisnis yang kompetitif, memahami perilaku pelanggan menjadi kunci penting dalam meningkatkan penjualan dan menyusun strategi pemasaran yang efektif. Perusahaan perlu mengetahui faktor-faktor apa saja yang memengaruhi keputusan pelanggan dalam membeli suatu produk, termasuk karakteristik demografis, kondisi finansial, serta kebiasaan sehari-hari.
 
