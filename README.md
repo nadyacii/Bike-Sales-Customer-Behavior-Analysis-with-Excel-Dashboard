@@ -72,41 +72,92 @@ Proses ini penting untuk meningkatkan kualitas data sehingga hasil analisis menj
 ## 6. Key Insight
 Berdasarkan hasil analisis dan visualisasi pada dashboard, diperoleh beberapa insight utama terkait perilaku pelanggan dalam pembelian sepeda:
 
-1. Pendapatan berpengaruh terhadap keputusan pembelian
+### 1. Tingkat Pembelian Sepeda Masih Berada di Bawah 50%
 
-Pelanggan yang membeli sepeda cenderung memiliki rata-rata pendapatan lebih tinggi dibandingkan yang tidak membeli, baik pada laki-laki maupun perempuan.
+Dari total 1.000 pelanggan, sebanyak 481 pelanggan (48,1%) melakukan pembelian sepeda, sedangkan 519 pelanggan (51,9%) tidak melakukan pembelian.
 
-2. Kelompok usia middle-age memiliki tingkat pembelian tertinggi
+Insight ini menunjukkan bahwa tingkat konversi pembelian masih relatif rendah dan perusahaan masih memiliki peluang besar untuk meningkatkan penjualan dengan menargetkan pelanggan yang belum melakukan pembelian.
 
-Dibandingkan kelompok usia lainnya, pelanggan pada kategori middle age menunjukkan jumlah pembelian sepeda paling tinggi, sehingga menjadi segmen potensial.
+### 2. Pendapatan Berpengaruh Terhadap Keputusan Pembelian
 
-3. Jarak perjalanan memengaruhi perilaku pembelian
+Hasil analisis menunjukkan bahwa pelanggan yang membeli sepeda memiliki rata-rata pendapatan sebesar $57.963, sedangkan pelanggan yang tidak membeli memiliki rata-rata pendapatan sebesar $54.875.
 
-Pelanggan dengan jarak perjalanan tertentu (terutama jarak menengah) menunjukkan kecenderungan lebih tinggi untuk membeli sepeda, yang mengindikasikan adanya kebutuhan mobilitas yang relevan.
+Hal ini mengindikasikan bahwa pelanggan dengan tingkat pendapatan yang lebih tinggi cenderung memiliki kemungkinan lebih besar untuk membeli sepeda dibandingkan pelanggan dengan pendapatan yang lebih rendah.
 
-4. Perbedaan perilaku berdasarkan gender relatif kecil
+### 3. Kelompok Usia Middle Age Merupakan Segmen Pembeli Terbesar
 
-Tidak terdapat perbedaan signifikan antara laki-laki dan perempuan dalam keputusan pembelian, sehingga strategi pemasaran dapat difokuskan lebih pada faktor lain seperti pendapatan dan usia.
+Berdasarkan analisis Age Brackets, kelompok usia Middle Age (31–54 tahun) memiliki jumlah pembeli tertinggi dengan total 383 pelanggan, jauh lebih tinggi dibandingkan kelompok Adolescent maupun Old.
 
-5. Segmentasi pelanggan penting untuk strategi bisnis
+Hal ini menunjukkan bahwa pelanggan usia produktif merupakan target pasar utama bagi produk sepeda karena memiliki kebutuhan mobilitas yang tinggi serta kemampuan finansial yang lebih baik.
 
-Kombinasi faktor seperti pendapatan, usia, dan jarak perjalanan dapat digunakan untuk mengidentifikasi target pelanggan yang lebih potensial dalam meningkatkan penjualan.
+### 4. Jarak Perjalanan Pendek Mendominasi Pembelian Sepeda
+
+Kelompok pelanggan dengan jarak perjalanan 0–1 Miles mencatat jumlah pembelian tertinggi, yaitu sebanyak 200 pelanggan.
+
+Sementara itu, jumlah pembelian cenderung menurun seiring bertambahnya jarak perjalanan pelanggan. Hal ini menunjukkan bahwa sepeda lebih banyak digunakan sebagai sarana transportasi untuk perjalanan jarak pendek dibandingkan perjalanan jarak jauh.
+
+### 5. Segmen Professional Menjadi Penyumbang Pembelian Terbesar
+
+Berdasarkan kategori pekerjaan, pelanggan dengan profesi Professional memiliki jumlah pembelian tertinggi, yaitu sebanyak 150 pelanggan, diikuti oleh kelompok Skilled Manual dengan 115 pelanggan.
+
+Temuan ini menunjukkan bahwa kelompok profesional memiliki minat yang lebih tinggi terhadap penggunaan sepeda, baik untuk kebutuhan transportasi maupun gaya hidup sehat.
+
+### 6. Pelanggan dengan Pendidikan Sarjana Lebih Banyak Membeli Sepeda
+
+Hasil analisis tingkat pendidikan menunjukkan bahwa pelanggan dengan pendidikan Bachelor's Degree memiliki jumlah pembelian tertinggi, yaitu sebanyak 169 pelanggan.
+
+Hal ini mengindikasikan bahwa pelanggan dengan tingkat pendidikan yang lebih tinggi cenderung memiliki kesadaran yang lebih baik terhadap manfaat kesehatan, lingkungan, dan mobilitas yang ditawarkan oleh penggunaan sepeda.
 
 ## 7. Business Recomendation
 Berdasarkan insight yang diperoleh dari analisis data, berikut beberapa rekomendasi yang dapat diterapkan untuk meningkatkan penjualan sepeda:
 
-1. Target pelanggan dengan pendapatan menengah ke atas
+### 1. Memfokuskan Strategi Pemasaran pada Kelompok Usia Middle Age
 
-Fokuskan strategi pemasaran pada segmen pelanggan dengan pendapatan lebih tinggi karena memiliki kecenderungan membeli yang lebih besar.
+Karena kelompok usia Middle Age merupakan segmen dengan jumlah pembeli terbesar, perusahaan dapat mengembangkan kampanye pemasaran yang secara khusus menargetkan pelanggan berusia 31–54 tahun.
 
-2. Prioritaskan segmen usia middle-age
+Strategi yang dapat diterapkan antara lain:
 
-Kelompok usia ini merupakan kontributor pembelian terbesar, sehingga dapat dijadikan target utama dalam kampanye pemasaran.
+- Promosi produk untuk kebutuhan commuting harian.
+- Kampanye digital yang menyasar usia produktif.
+- Program loyalitas bagi pelanggan aktif.
 
-3. Optimalkan promosi berdasarkan kebutuhan mobilitas
+### 2. Menargetkan Pelanggan Berpendapatan Menengah ke Atas
 
-Pelanggan dengan jarak perjalanan menengah menunjukkan potensi tinggi, sehingga promosi dapat difokuskan pada manfaat sepeda sebagai solusi transportasi harian.
+Karena pelanggan dengan pendapatan lebih tinggi memiliki kecenderungan lebih besar untuk membeli sepeda, perusahaan dapat mengembangkan strategi pemasaran yang berfokus pada segmen ini.
 
-4. Gunakan segmentasi untuk personalisasi strategi marketing
+Beberapa strategi yang dapat dilakukan:
 
-Kombinasi faktor seperti usia, pendapatan, dan jarak perjalanan dapat digunakan untuk membuat strategi pemasaran yang lebih tepat sasaran.
+- Menawarkan produk premium dengan fitur tambahan.
+- Menyediakan program cicilan atau pembayaran bertahap.
+- Menawarkan paket bundling aksesoris dan perlengkapan sepeda.
+
+### 3. Mengembangkan Program Khusus untuk Segmen Profesional
+
+Kelompok Professional merupakan segmen pekerjaan dengan jumlah pembelian tertinggi. Oleh karena itu, perusahaan dapat membuat program pemasaran yang lebih spesifik untuk kelompok ini.
+
+Contoh strategi:
+
+- Program "Bike to Work".
+- Kerja sama dengan perusahaan atau perkantoran.
+- Diskon khusus untuk karyawan perusahaan tertentu.
+
+### 4. Memperkuat Promosi Sepeda sebagai Transportasi Jarak Pendek
+
+Karena mayoritas pembeli berasal dari kelompok dengan jarak perjalanan 0–1 Miles, perusahaan dapat memposisikan sepeda sebagai solusi transportasi harian yang efisien dan ekonomis.
+
+Strategi yang dapat dilakukan:
+
+- Menonjolkan manfaat kesehatan dan penghematan biaya transportasi.
+- Memasarkan produk city bike atau commuter bike.
+- Membuat kampanye ramah lingkungan untuk penggunaan sepeda sehari-hari.
+
+### 5. Meningkatkan Konversi Pelanggan yang Belum Membeli
+
+Masih terdapat 519 pelanggan yang belum melakukan pembelian sepeda. Kelompok ini merupakan peluang potensial untuk meningkatkan penjualan.
+
+Strategi yang dapat diterapkan:
+
+- Memberikan diskon pembelian pertama.
+- Menawarkan program referral pelanggan.
+- Melakukan remarketing kepada pelanggan yang belum membeli.
+- Menyediakan promo musiman atau cashback.
